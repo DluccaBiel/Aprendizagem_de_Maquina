@@ -1,4 +1,5 @@
 # ALUNOS: GABRIEL DLUCCA (2314290041) SAMUEL HENRIQUE (2324291056)
+# python runner.py
 
 import pygame
 import sys
